@@ -11,6 +11,7 @@ This app was developed as part of the Milestone Project for the 100 Days of Swif
 - **Game Choices**: Users are presented with three options: Rock, Paper, and Scissors. This simple yet engaging mechanism forms the core of the gameplay, ensuring a familiar yet fun experience.
 - **Rounds**: The game is structured around ten rounds. This setup provides a balanced duration, neither too short to be unsatisfying nor too long to be tedious.
 - **Reset Alert**: Upon reaching the ten-round limit, the app automatically triggers a reset alert. This alert not only signifies the end of the game but also displays the user's score, adding a competitive edge to the experience.
+- **Haptic**: When the users select the buttons, the iPhone will send the Haptic Feedback to the users. 
 
 ## Conclusion
 This app is a testament to the capabilities of SwiftUI in creating engaging and visually appealing applications. Through its sophisticated design inspired by the Vision Pro glass texture and its straightforward gameplay mechanics, it offers
